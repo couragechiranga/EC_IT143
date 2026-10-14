@@ -1,0 +1,1 @@
+CREATE OR ALTER VIEW dbo.vw_myfc_player_info_cc
